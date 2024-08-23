@@ -35,16 +35,16 @@ export const ContextProvider = ({ children }: ContextProviderProps) => {
       const initialBombs = names.map(name => {
         let timeLeft = 0;
         switch (name) {
-          case 'Bomb A':
+          case '🧨Bomb A':
             timeLeft = 20;
             break;
-          case 'Bomb B':
+          case '🧨Bomb B':
             timeLeft = 13;
             break;
-          case 'Bomb C':
+          case '🧨Bomb C':
             timeLeft = 16;
             break;
-          case 'Bomb D':
+          case '🧨Bomb D':
             timeLeft = 10;
             break;
           default:
