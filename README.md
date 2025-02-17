@@ -2,8 +2,14 @@
 Timebomb React Project Documentation
 Overview
 The Timebomb React project is a web application that simulates a countdown for multiple timebombs. The application transitions through different screens to display the countdown and the status of each timebomb. The project uses React with TypeScript, Context API for state management, and includes test cases to ensure functionality.
+<img width="1154" alt="Screenshot 2025-02-17 at 2 33 34 PM" src="https://github.com/user-attachments/assets/2aaabb6f-48e1-4197-82b9-047d75859a39" />
+<img width="1149" alt="Screenshot 2025-02-17 at 2 33 04 PM" src="https://github.com/user-attachments/assets/74d4d92e-3d04-43bf-a5ad-4b3f6e3deace" />
 
-Project Structure
+<img width="1145" alt="Screenshot 2025-02-17 at 2 33 15 PM" src="https://github.com/user-attachments/assets/1a3f137a-cc62-4363-bc67-c1256ad6b5a5" />
+
+<img width="1155" alt="Screenshot 2025-02-17 at 2 33 25 PM" src="https://github.com/user-attachments/assets/95678705-5aa1-4f06-984c-488e8125ce76" />
+
+Project Structure:
 src/: Contains all the source code for the project.
 components/: Contains React components for different screens.
 ScreenA.tsx: Displays a list of timebombs with an initial countdown.
